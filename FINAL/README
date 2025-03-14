@@ -1,0 +1,37 @@
+# Reduced Form Model Generator
+
+This Python script is designed to perform air quality data processing and analysis, applying Reduced Form Models (RFM) to generate predictions and insights from environmental data sets. It's suitable for researchers, environmental scientists, and policy makers who are looking into air pollution studies and its impacts.
+
+## Requirements
+
+- Python 3.8 or newer
+- Libraries: pandas, polars, pyproj, xlwings, numpy, datetime, joblib
+- A proper Python environment 
+
+
+## Installation
+
+Clone this repository or download the code to your local machine:
+
+```bash
+git clone https://yourrepositorylink.git
+cd your-repository-folder
+pip install pandas polars pyproj xlwings numpy joblib
+```
+
+## Usage
+
+To run the RFM processing, navigate to the script directory and execute:
+
+```bash
+python script.py
+```
+
+## Function Descriptions
+
+
+
+### Initialize RFM
+
+
+
